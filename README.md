@@ -1,17 +1,24 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+Analyze the history of the property prices across Canada. Use Tableau as a main tool to build visualizations
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Getting data ready to analyze (discover, clean, make relationships, joins etc.)
+
+### Visualization & Analysis of the data:
+-	Comparing trends
+-	Analyzing effect of world crises on our data
+-	Building regression model
+-	Improving visualization charts
+
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+Option 1. Please see results in Presentation and Tableau book.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+The biggest challenge for this project was time. 
 
 ## Future Goals
-(what would you do if you had more time?)
+- Find extra sources from internet to make this dataset complete (more parameters, updated date etc.)
+- Do more deep analysis and create complex visualization
